@@ -13,7 +13,7 @@ git clone https://github.com/ddushev/slot-game.git
 - Navigate to project directory
 
 ```bash
-cd game-slot
+cd slot-game
 ```
 
 - Install dependencies
