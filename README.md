@@ -1,6 +1,6 @@
 # Overview
 
-Application which simulates 3x5 slot machine with pre-defined configuration(gameConfig.ts) and 5 payout lines.
+Simple NodeJS application which simulates 3x5 slot machine with pre-defined configuration(gameConfig.ts) and 5 payout lines and outputs the result of single slot spin and simulation result over 100000 slot spins and results.
 
 ## How to install and run locally
 
@@ -34,14 +34,9 @@ npm run build
 npm  start
 ```
 
+## Output
 
-## Credentials to login
-
-1. ddushev - 123
-2. johndoe - 123
-3. janedoe - 123
-4. bobdoe - 123
-5. alisdoe - 123
+[![Demo Thumbnail](https://raw.githubusercontent.com/ddushev/slot-game/master/assets/demo.png)]
 
 ## Tech stack
 
