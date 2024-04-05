@@ -31,12 +31,12 @@ npm run build
 - Start the project
 
 ```bash
-npm  start
+npm start
 ```
 
 ## Output
 
-[![Demo Thumbnail](https://raw.githubusercontent.com/ddushev/slot-game/master/assets/demo.png)]
+![Demo Thumbnail](https://raw.githubusercontent.com/ddushev/slot-game/master/assets/demo.png)
 
 ## Tech stack
 
