@@ -1,6 +1,6 @@
 # Overview
 
-Simple NodeJS application which simulates 3x5 slot machine with pre-defined configuration(gameConfig.ts) and 5 payout lines and outputs the result of single slot spin and simulation result over 100000 slot spins and results.
+Simple NodeJS application that simulates 3x5 slot machine with pre-defined configuration(gameConfig.ts) and 5 payout lines. The application outputs the result of a single sample slot spin(symbols on screen and payout lines) and simulation of over 100000 slot spins with results for total wins, total amount won, the total amount of bets, and execution time(ms).
 
 ## How to install and run locally
 
